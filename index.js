@@ -18,7 +18,7 @@ function sayHiToGrandma(string) {
   var lowercase = whisper(string)
   var uppercase = shout(string)
   if (string = lowercase) {
-    return "I can't hear you!"
+    return "YES INDEED!"
   } else if (string = uppercase) {
       return "YES INDEED!"
     } else if (string = "I love you, Grandma.") {
